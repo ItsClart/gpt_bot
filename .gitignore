@@ -2,9 +2,7 @@
 .vscode/
 
 .env
-
-__pycache__/
-
 .python-version
 
+__pycache__/
 uvtest.egg-info/
